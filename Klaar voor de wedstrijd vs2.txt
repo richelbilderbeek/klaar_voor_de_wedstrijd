@@ -1,0 +1,43 @@
+1. Even voorstellen
+De Hub!
+Hier ga je het programma voor schrijven.Afstandsensor
+KrachtsensorKleurensensorMedium motorGrote motorProgrammeertaal Scratch
+
+2. Voorbereiding:
+* Open de site education.lego.com
+* Kies de voor jou gewenste taal.
+* Download Lego? Education SPIKE? Prime
+* Open de app en leer in 3 eenvoudige stappen SPIKE PRIME te gebruiken.
+
+
+3. Aan de slag:
+
+1: Bouw het basis model.
+    Klik op bouwen en volg de aanwijzingen.
+2: Probeer de programmeerstacks ‚‚n voor ‚‚n uit. 
+    Deze staan op de volgende pagina.
+    Wat zie je gebeuren?
+    Wijzig de parameterwaarde van elk blok en kijk wat er gebeurt.
+3: Laat je rijbasis een vierkant rijden (kies acties uit de stacks op het programmeerveld) 
+4: Plaats acht stenen en steek het veld over zonder de stenen te raken.(zie opdracht 5)  
+
+
+
+De programmeerstacks, die je gaat gebruiken
+
+
+
+Deze stack bepaalt de parameters van je rijbasis.
+
+Wanneer het programma opstart maakt jouw rijbasis een hoek van 90ø door middel van de Gyrosensor in de Hub.
+
+Wanneer de linkerknop van de Hub is ingedrukt, rijdt je rijbasis vooruit en achteruit. 
+
+
+Wanneer de rechterknop van de Hub is ingedrukt, rijdt je rijbasis in een rondje.
+
+
+
+
+Klaar voor de wedstrijd
+
